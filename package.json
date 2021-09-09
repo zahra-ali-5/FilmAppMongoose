@@ -1,0 +1,24 @@
+{
+  "name": "filmappmongoose",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zahra-ali-5/FilmAppMongoose.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zahra-ali-5/FilmAppMongoose/issues"
+  },
+  "homepage": "https://github.com/zahra-ali-5/FilmAppMongoose#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mongoose": "^6.0.5"
+  }
+}
